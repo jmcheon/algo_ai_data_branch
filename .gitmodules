@@ -1,0 +1,9 @@
+[submodule "ml_module"]
+	path = ml_module
+	url = https://github.com/jmcheon/ml_module.git
+[submodule "python_module"]
+	path = python_module
+	url = https://github.com/jmcheon/python_module.git
+[submodule "ft_linear_regression"]
+	path = ft_linear_regression
+	url = https://github.com/jmcheon/ft_linear_regression.git
