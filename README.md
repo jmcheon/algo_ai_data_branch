@@ -27,7 +27,7 @@
 	<td>Solo</td>
 	<td>98h</td>
 	<td>9450</td>
-	<td>Brain computer interface with machine learning based on electoencephalographic data. <br>
+	<td>Brain computer interface with machine learning based on electroencephalographic data. <br>
 		<a href="https://www.google.com/search?q=python MNE" target="_blank">#python MNE</a>
 		<a href="https://www.google.com/search?q=EEG" target="_blank">#EEG</a>
 		<a href="https://www.google.com/search?q=dimensionality reduction" target="_blank">#dimensionality reduction</a>
