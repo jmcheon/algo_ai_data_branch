@@ -7,3 +7,6 @@
 [submodule "ft_linear_regression"]
 	path = ft_linear_regression
 	url = https://github.com/jmcheon/ft_linear_regression.git
+[submodule "dslr"]
+	path = dslr
+	url = https://github.com/jmcheon/dslr
