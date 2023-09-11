@@ -7,6 +7,12 @@
 [submodule "ft_linear_regression"]
 	path = ft_linear_regression
 	url = https://github.com/jmcheon/ft_linear_regression.git
+[submodule "multilayer_perceptron"]
+	path = multilayer_perceptron
+	url = https://github.com/jmcheon/multilayer_perceptron
+[submodule "lem_in"]
+	path = lem_in
+	url = https://github.com/jmcheon/lem_in
 [submodule "dslr"]
 	path = dslr
 	url = https://github.com/jmcheon/dslr
