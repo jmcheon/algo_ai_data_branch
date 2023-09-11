@@ -13,6 +13,3 @@
 [submodule "lem_in"]
 	path = lem_in
 	url = https://github.com/jmcheon/lem_in
-[submodule "dslr"]
-	path = dslr
-	url = https://github.com/jmcheon/dslr
