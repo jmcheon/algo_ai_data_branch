@@ -13,12 +13,12 @@
 [submodule "lem_in"]
 	path = lem_in
 	url = https://github.com/jmcheon/lem_in
-[submodule "dslr"]
-	path = dslr
-	url = https://github.com/jmcheon/dslr
 [submodule "expert_system"]
 	path = expert_system
 	url = https://github.com/jmcheon/expert_system
 [submodule "krpsim"]
 	path = krpsim
 	url = https://github.com/jmcheon/krpsim
+[submodule "dslr"]
+	path = dslr
+	url = https://github.com/jmcheon/dslr
