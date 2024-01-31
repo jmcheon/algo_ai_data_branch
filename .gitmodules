@@ -1,24 +1,32 @@
-[submodule "ml_module"]
-	path = ml_module
-	url = https://github.com/jmcheon/ml_module.git
-[submodule "python_module"]
-	path = python_module
-	url = https://github.com/jmcheon/python_module.git
+[submodule "ml_piscine"]
+	path = ml_piscine
+	url = https://github.com/jmcheon/ml_piscine.git
+	branch = main
+[submodule "python_piscine"]
+	path = python_piscine
+	url = https://github.com/jmcheon/python_piscine.git
+	branch = main
 [submodule "ft_linear_regression"]
 	path = ft_linear_regression
 	url = https://github.com/jmcheon/ft_linear_regression.git
+	branch = main
 [submodule "multilayer_perceptron"]
 	path = multilayer_perceptron
 	url = https://github.com/jmcheon/multilayer_perceptron
+	branch = main
 [submodule "lem_in"]
 	path = lem_in
 	url = https://github.com/jmcheon/lem_in
+	branch = main
 [submodule "expert_system"]
 	path = expert_system
 	url = https://github.com/jmcheon/expert_system
+	branch = main
 [submodule "dslr"]
 	path = dslr
 	url = https://github.com/jmcheon/dslr
+	branch = main
 [submodule "krpsim"]
 	path = krpsim
 	url = https://github.com/jmcheon/krpsim
+	branch = main
