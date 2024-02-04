@@ -1,10 +1,11 @@
 
 ## Algo, AI, data branch
-
 <table>
-<tr><th>Title</th><th>Team</th><th>Time</th><th>XP</th><th>Description</th></tr>
-<tr><td>[DEPRECATED]ml_module <td>Solo<td>5days<td>15000<td>This is Bootcamp Machine Learning created by the Paris-based student organization 42 AI.</tr>
-<tr><td>[DEPRECATED]python_module <td>Solo<td>5days<td>6000<td>This is Bootcamp Python created by the Paris-based student organization 42 AI.</tr>
+<tr><th>Project</th><th>Team</th><th>Time</th><th>XP</th><th>Description</th></tr>
+<tr><td> Piscine Data Science <td>Solo<td>35h <td>4725<td>Introduction to data science via the different professions.</tr>
+<tr><td> Python for Data Science <td>Solo<td>35h <td>4725<td>Python piscine for data science.</tr>
+<tr><td>[DEPRECATED]ml_piscine <td>Solo<td>5days<td>15000<td>This is Bootcamp Machine Learning created by the Paris-based student organization 42 AI.</tr>
+<tr><td>[DEPRECATED]python_piscine <td>Solo<td>5days<td>6000<td>This is Bootcamp Python created by the Paris-based student organization 42 AI.</tr>
 <tr><td>ft_linear_regression <td>Solo<td>49h<td>4200<td>In this project, you will implement your first machine learning algorithm.</tr>
 <tr><td>dslr <td>Group 2<td>98h<td>6000<td>Write a classifier and save Hogwarts!</tr>
 <tr><td>Leaffliction <td>Group 2-3<td>294h<td>15750<td>Image classification by disease recognition on leaves.</tr>
@@ -33,7 +34,8 @@
 		<a href="https://www.google.com/search?q=dimensionality reduction" target="_blank">#dimensionality reduction</a>
 		<a href="https://www.google.com/search?q=scikit-learn pipeline" target="_blank">#scikit-learn pipeline</a>
 	</td>
-</tr><tr><td>lem-in <td>Group 2<td>98h<td>9450<td>This project is meant to make you code an ant farm manager.</tr>
+</tr>
+<tr><td>lem-in <td>Group 2<td>98h<td>9450<td>This project is meant to make you code an ant farm manager.</tr>
 <tr><td>n-puzzle <td>Group 2<td>98h<td>9450<td>The goal of this project is to programmatically solve the N-puzzle.</tr>
 <tr><td>rubik <td>Group 2<td>98h<td>9450<td>This project will make you write a program that solves Rubik’s Cubes with minimum spins.</tr>
 <tr><td>expert-system <td>Group 2<td>98h<td>9450<td>The goal of this project is to make a propositional calculus expert system.</tr>
@@ -75,8 +77,10 @@ pie  title required hours for AI projects
 ### AI, data branch
 ```mermaid
 flowchart LR
-	a(python module)
-	b(ml module)
+	a1(Piscine Data Science)
+	b2(Python for Data Science)
+	a(DEPRECATED Python Piscine)
+	b(DEPRECATED ML Piscine)
 	0(AI, data) --49h, 4200XP--> A((ft_linear_regression))
 	B((dslr)):::group
 	A((ft_linear_regression)) --98h, 6000XP --> B
@@ -85,7 +89,6 @@ flowchart LR
 	B -- 294h, 15750XP --> E((Leaffliction)):::group
     classDef group fill:#f96
 ```
-
 ### Algo branch
 ```mermaid
 flowchart LR
