@@ -30,3 +30,7 @@
 	path = krpsim
 	url = https://github.com/jmcheon/krpsim
 	branch = main
+[submodule "leaffliction"]
+	path = leaffliction
+	url = https://github.com/jmcheon/leaffliction
+	branch = main
